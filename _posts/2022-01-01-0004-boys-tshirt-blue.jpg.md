@@ -5,7 +5,7 @@ description: Blue Ts for Boys
 categories: [ Season, Boys ]
 image: assets/images/products/0004-boys-tshirt-blue.jpg
 permalink: "t-shirt-blue"
-price: 289
+price: 179
 material: Cotton
 ---
 
