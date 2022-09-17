@@ -1,14 +1,16 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: Shop
   url: ""
 
 - title: About
   url: "about/"
 
 - title: Contact
-  url: "contact/"
+  url: "https://wa.me/917907679962"
+  # "contact/"
+  external: true
 
 - title: Get this theme  
   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
